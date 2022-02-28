@@ -2,7 +2,7 @@
 title: Vitor Farinha Luz
 ---
 
-# Homepage
+<!-- # Homepage -->
 
 ## Welcome
 This page is currently under construction. 

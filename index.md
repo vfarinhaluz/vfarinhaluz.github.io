@@ -1,6 +1,6 @@
-## testing
-* [Link to the CETC program](https://vfarinhaluz.github.io/program_test)
-
+## In construction
 Vitor farinha's webpage.
 
-testing one more line.
+Website currently under development.
+In the meantime, you can find the releant information at:
+* https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/

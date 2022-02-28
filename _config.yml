@@ -1,8 +1,5 @@
-title: Vitor Farinha Luz's webpage
-description: INACTIVE
-remote_theme: pages-themes/cayman@v0.2.0
+title: Virtual Economics
+description: [Digital resources for the socially-distanced economist in your life.]
+theme: jekyll-theme-cayman
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-menus
-
-# theme: jekyll-theme-cayman
+      - jekyll-seo-tag

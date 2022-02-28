@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Virtual Economics
 
-You can use the [editor on GitHub](https://github.com/vfarinhaluz/vfarinhaluz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`virtual-econ.info` is intended to store various virtual conferences, seminars, talks, and resources while many of us are sequestered at home. Hat tip to [Luke Stein](https://twitter.com/lukestein) for the initial resources and the suggestion to build the website.
 
-### Markdown
+## How to contribute
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can contribute information to this website by opening a pull request on GitHub repository for [this page](https://github.com/cpfiffer/virtual-econ.info) to edit any of the various webpages you see here. Each page has its own handy "Edit me" button if you want to quickly add something to a list.
 
-```markdown
-Syntax highlighted code block
+## Support or Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vfarinhaluz/vfarinhaluz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact the maintainer of this page by emailing [cpfiffer@gmail.com](mailto:cpfiffer@gmail.com) or by tweeting [@cameron_pfiffer](https://twitter.com/cameron_pfiffer).

@@ -1,12 +1,7 @@
----
-layout: page
-excerpt: "About Me..."
----
+## Vitor Farinha Luz (In construction)
+Vitor farinha's webpage.
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Website currently under development.
+In the meantime, you can find the releant information at:
 
-## Current Interests and Projects:
-
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+**[https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)**

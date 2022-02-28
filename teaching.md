@@ -1,3 +1,2 @@
 ## Teaching
 
-To be added.
